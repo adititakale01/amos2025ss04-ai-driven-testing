@@ -1,3 +1,18 @@
+# 🚀 Portfolio Archive: My Work on AMOS 2025
+
+> **Note:** This is a fork of the [Original AMOS Project](https://github.com/amosproj/amos2025ss04-ai-driven-testing).
+
+### 🏢 Professional Context
+This project was executed under strict **Agile/Scrum methodologies** in collaboration with our industry partner, **GRAU Data**.
+
+### ⚙️ My Contribution & Workflow
+I worked as a Core Developer within a team of 7, adhering to professional engineering standards:
+*   **Methodology:** Agile Scrum with **Wöchentliche Sprints** (Weekly Sprints).
+*   **Collaboration:** Managed tasks via **GitHub Issues & Tickets**.
+*   **Review:** Conducted weekly **Sprint Reviews** (in German/English) with stakeholders from GRAU Data.
+*   **Team Health:** We actively monitored the **Happiness Index** to identify blockers and burnout early.
+
+
 # AI-Driven Testing Project (AMOS SS 2025)
 
 This repository contains the code and tests for the AI-Driven Testing project, designed to develop an LLM-based AI that can automatically generate test code for existing software through a chat-based interface.
@@ -7,11 +22,11 @@ This repository contains the code and tests for the AI-Driven Testing project, d
 1. [Project Overview](#1-project-overview)
 2. [Prerequisites](#2-prerequisites)
 3. [Quick Start](#3-quick-start)
-4. [Backend Setup and Usage](#4-backend-setup-and-usage)
+4. [Backend Setup and Usage](#4-backend-information-and-usage)
 5. [Frontend Setup](#5-frontend-setup)
 6. [API Reference](#6-api-reference)
 7. [Modular Plugin System](#7-modular-plugin-system)
-8. [Configuration](#8-configuration)
+8. [Configuration](#8-models)
 9. [Examples](#9-examples)
 10. [Troubleshooting](#10-troubleshooting)
 
